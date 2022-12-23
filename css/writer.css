@@ -1,0 +1,24 @@
+html{
+    font-size:100%;
+}
+
+body{
+    background-image: url(../img/japanese-paper_00183.jpg);
+    display: block;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: serif;
+}
+
+.greeting{
+    display:flex;
+    justify-content: space-between;
+}
+
+article{
+    width:70%;
+}
+
+aside{
+    width:20%;
+}
